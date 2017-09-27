@@ -1,6 +1,11 @@
 # Eventex
 
+
 Sistema de Eventos encomendado pela Morena.
+
+[![Build Status](https://travis-ci.org/HildePedroni/eventex.svg?branch=master)](https://travis-ci.org/HildePedroni/eventex)
+[![Code Health](https://landscape.io/github/HildePedroni/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/HildePedroni/eventex/master)
+
 
 
 ## Como desenvolver?
