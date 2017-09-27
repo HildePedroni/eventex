@@ -3,7 +3,7 @@
 Sistema de Eventos encomendado pela Morena.
 
 
-## Como desenvolder
+## Como desenvolver?
 1. Clone o repositorio
 2. Crie um virtualenv com Python 3.5
 3. Ative o virtualenv
@@ -23,7 +23,7 @@ python manage.py test
 
 ````
 
-## Como fazer o deploy
+## Como fazer o deploy?
 
 1. Crie uma instaância no heroku
 2. Envie as configurações para o heroku
